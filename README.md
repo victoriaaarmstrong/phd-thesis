@@ -1,6 +1,7 @@
 # Handling Unexpected Context in Goal Oriented Dialogue Agents
+
 This repository contains the relevant code, data, and assets used in the four content chapters of my PhD Thesis from May 2026. Each chapter (listed below) has its own folder containing run instructions and relevant files/data. 
-- 
+
 - Chapter 3: Planning Solutions Are Powerful but Cannot Scale
 - Chapter 4: Execution Monitoring for Unexpected Changes
 - Chapter 5: LLM Capabilities for Additional Context
